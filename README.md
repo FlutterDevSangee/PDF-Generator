@@ -1,6 +1,11 @@
 # pdf_generator
+PDF Generator is a versatile tool that allows users to create and manage PDF documents with ease.
+# Output
 
-A new Flutter project.
+![pdf app](https://github.com/FlutterDevSangee/PDF-Generator/assets/130139011/9f95c2ce-0c5c-48f1-9264-260f100a3a19)
+
+![Screenshot_1696751417](https://github.com/FlutterDevSangee/PDF-Generator/assets/130139011/fce192b4-e2b6-4be8-aa31-830a94945deb)
+
 
 ## Getting Started
 
